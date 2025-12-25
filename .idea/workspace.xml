@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d65ca7-659b-47da-b330-b1643565dbac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream/FreqOfWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream/SecondHighestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream/distinctOfWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream/maxLengthOrWordOfString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,17 +44,25 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="36cmFWYoj28KHg5MhEr2HHmgJgR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FreqOfWord.executor": "Run",
+    "Application.LongestPalindromicSubString.executor": "Run",
     "Application.MergedTwoSortedArray.executor": "Run",
     "Application.RemoveDuplicateElement.executor": "Run",
+    "Application.SecondHighestWord.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.distinctOfWord.executor": "Run",
+    "Application.maxLengthOfWord.executor": "Run",
+    "Application.maxLengthOrWordOfString.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

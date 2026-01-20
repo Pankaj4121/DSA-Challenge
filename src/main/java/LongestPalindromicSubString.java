@@ -6,8 +6,7 @@ public class LongestPalindromicSubString {
 
     }
 
-    public static String LongestSubString(String s){
-        int start = 0;
+    public static String LongestSubString(String s){        int start = 0;
         int end = 0;
         for(int i=0; i<s.length(); i++){
             char c = s.charAt(i);

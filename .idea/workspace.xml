@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d65ca7-659b-47da-b330-b1643565dbac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream/FreqOfWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream/SecondHighestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream/distinctOfWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream/maxLengthOrWordOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HotArrays/CheckIfArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HotArrays/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HotArrays/findLargestnSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HotArrays/reverseAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LongestPalindromicSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestPalindromicSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/FreqOfWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/SecondHighestWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/distinctOfWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/maxLengthOrWordOfString.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -53,6 +59,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CheckIfArrayIsSorted.executor": "Run",
     "Application.FreqOfWord.executor": "Run",
     "Application.LongestPalindromicSubString.executor": "Run",
     "Application.MergedTwoSortedArray.executor": "Run",
@@ -61,8 +68,10 @@
     "Application.ThreeSum.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.distinctOfWord.executor": "Run",
+    "Application.findLargestnSmallestElement.executor": "Run",
     "Application.maxLengthOfWord.executor": "Run",
     "Application.maxLengthOrWordOfString.executor": "Run",
+    "Application.reverseAnArray.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

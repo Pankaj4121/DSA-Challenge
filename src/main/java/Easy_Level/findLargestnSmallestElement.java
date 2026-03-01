@@ -1,4 +1,4 @@
-package HotArrays;
+package Easy_Level;
 
 public class findLargestnSmallestElement {
     public static void main(String[] args) {

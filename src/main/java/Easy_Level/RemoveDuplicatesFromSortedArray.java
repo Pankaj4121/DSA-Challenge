@@ -1,4 +1,4 @@
-package HotArrays;
+package Easy_Level;
 
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {

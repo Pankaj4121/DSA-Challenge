@@ -1,6 +1,4 @@
-package HotArrays;
-
-import java.util.Arrays;
+package Easy_Level;
 
 public class CheckIfArrayIsSorted {
     public static void main(String[] args) {

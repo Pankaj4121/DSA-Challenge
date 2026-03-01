@@ -1,0 +1,26 @@
+package Medium_Level;
+
+import java.util.HashSet;
+
+public class LongestSubstringWithoutRepeatingChar {
+    public static void main(String[] args) {
+        String str = "pwwkew";
+        HashSet<Character> set = new HashSet<>();
+        int left = 0;
+        int right = 0;
+        int maxLength = 0;
+        while(right < str.length()){
+            char ch = str.charAt(right);
+            if(!set.contains(ch)){
+                set.add(ch);
+                maxLength = Math.max(maxLength, right - left + 1);
+                right++;
+            } else {
+                set.remove(str.charAt(left));
+                left++;
+            }
+        }
+        System.out.println(maxLength);
+
+    }
+}

@@ -5,16 +5,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d65ca7-659b-47da-b330-b1643565dbac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HotArrays/CheckIfArrayIsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HotArrays/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HotArrays/findLargestnSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HotArrays/reverseAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/CheckIfTwoStringsAreAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/CountVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindDuplicateCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindFirstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindFrequencyOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindSecondHighestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/LongestWordInASentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/MoveAllZeroesToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/ReverseAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/RotateArrayByK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/FindTheDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/GroupOfAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/LongestSubstringWithoutRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/MaxSubArraySumKadanesAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/ReverseWordsInaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/BestTimeToBuySellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/FindMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/MargedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/RotateArrayByK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/maximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/moveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/CheckIfAllElementsMatchAConditionAllMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/ConvertListToMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindAnyElementStartingWithPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindDuplicateElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindFirstRepeatedChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindFrquencyOfChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindFrquencyOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindLongestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindMinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindSecondHighestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FlattenNestedListsUsingFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/GroupElementsAndCountThem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/LimitTop3HighestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/MergedTwoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/PartitionEvenAndOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/SkipFirstNElementsAndCollectRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/SortAList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/SortAMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/SumOfAllNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CapitalizeFirstLetterOfEachWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CheckIfTwoStringsAreAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/ConvertListofStringsToUppercaseAndJoinThemWithComma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CountFrequencyOfEachWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CountNumberOfWordsInAStringUsingStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CountVowelsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/FindAllPalindromicWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/FindDuplicateWordsInASentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/FindLongestWordInASentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/FindSecondMostRepeatedCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/GroupStringsByLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/RemoveDuplicateCharactersFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/ReverseAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/SortCharOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/SplitSentenceAndSortWordsAlphabetically.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LongestPalindromicSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestPalindromicSubString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/FreqOfWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/SecondHighestWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/distinctOfWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stream/maxLengthOrWordOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HotArrays/CheckIfArrayIsSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/CheckIfArrayIsSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HotArrays/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HotArrays/findLargestnSmallestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/findLargestnSmallestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HotArrays/reverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/reverseAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +102,9 @@
     &quot;accountId&quot;: &quot;06cf2b9f-a1af-47c4-ace7-bbf39c5a89c2&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Stream_Q/String/CapitalizeFirstLetterOfEachWord.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -59,19 +119,77 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BestTimeToBuySellStock.executor": "Run",
+    "Application.CapitalizeFirstLetterOfEachWord.executor": "Run",
+    "Application.CheckIfAllElementsMatchAConditionAllMatch.executor": "Run",
     "Application.CheckIfArrayIsSorted.executor": "Run",
+    "Application.CheckIfTwoStringsAreAnagram.executor": "Run",
+    "Application.CheckIfTwoStringsAreAnagrams.executor": "Run",
+    "Application.CheckPalindrome.executor": "Run",
+    "Application.ConvertListToMap.executor": "Run",
+    "Application.ConvertListofStringsToUppercaseAndJoinThemWithComma.executor": "Run",
+    "Application.CountFrequencyOfEachWord.executor": "Run",
+    "Application.CountNumberOfWordsInAStringUsingStreams.executor": "Run",
+    "Application.CountVowels.executor": "Run",
+    "Application.CountVowelsInAString.executor": "Run",
+    "Application.FindAllPalindromicWords.executor": "Run",
+    "Application.FindAnyElementStartingWithPrefix.executor": "Run",
+    "Application.FindDuplicateCharacters.executor": "Run",
+    "Application.FindDuplicateElement.executor": "Run",
+    "Application.FindDuplicateWordsInASentence.executor": "Run",
+    "Application.FindFirstNonRepeatingCharacter.executor": "Run",
+    "Application.FindFirstRepeatedChar.executor": "Run",
+    "Application.FindFrequencyOfElement.executor": "Run",
+    "Application.FindFrquencyOfChar.executor": "Run",
+    "Application.FindFrquencyOfNum.executor": "Run",
+    "Application.FindLongestString.executor": "Run",
+    "Application.FindLongestWordInASentence.executor": "Run",
+    "Application.FindMinAndMax.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
+    "Application.FindSecondHighestNumber.executor": "Run",
+    "Application.FindSecondMostRepeatedCharacter.executor": "Run",
+    "Application.FindTheDuplicateNumber.executor": "Run",
+    "Application.FlattenNestedListsUsingFlatMap.executor": "Run",
     "Application.FreqOfWord.executor": "Run",
+    "Application.GroupElementsAndCountThem.executor": "Run",
+    "Application.GroupOfAnagram.executor": "Run",
+    "Application.GroupStringsByLength.executor": "Run",
+    "Application.LimitTop3HighestNumbers.executor": "Run",
     "Application.LongestPalindromicSubString.executor": "Run",
+    "Application.LongestSubstringWithoutRepeatingChar.executor": "Run",
+    "Application.LongestWordInASentence.executor": "Run",
+    "Application.MargedSortedArray.executor": "Run",
+    "Application.MaxSubArrayKadanesAlgo.executor": "Run",
+    "Application.MergedTwoList.executor": "Run",
     "Application.MergedTwoSortedArray.executor": "Run",
+    "Application.MoveAllZeroesToEnd.executor": "Run",
+    "Application.PartitionEvenAndOddNumbers.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
+    "Application.RemoveDuplicateCharactersFromString.executor": "Run",
     "Application.RemoveDuplicateElement.executor": "Run",
+    "Application.RemoveDuplicatesFromSortedArray.executor": "Run",
+    "Application.ReverseAString.executor": "Run",
+    "Application.ReverseWordsInaString.executor": "Run",
+    "Application.RotateArrayByK.executor": "Run",
     "Application.SecondHighestWord.executor": "Run",
+    "Application.SkipFirstNElementsAndCollectRemaining.executor": "Run",
+    "Application.SortAList.executor": "Run",
+    "Application.SortAMap.executor": "Run",
+    "Application.SortCharOfString.executor": "Run",
+    "Application.SplitSentenceAndSortWordsAlphabetically.executor": "Run",
+    "Application.SumOfAllNum.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.ValidParentheses.executor": "Run",
+    "Application.containDuplicate.executor": "Run",
     "Application.distinctOfWord.executor": "Run",
     "Application.findLargestnSmallestElement.executor": "Run",
     "Application.maxLengthOfWord.executor": "Run",
     "Application.maxLengthOrWordOfString.executor": "Run",
+    "Application.maximumSubArray.executor": "Debug",
+    "Application.moveZero.executor": "Debug",
     "Application.reverseAnArray.executor": "Run",
+    "Application.twoSum.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -79,6 +197,82 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.FindSecondMostRepeatedCharacter">
+    <configuration name="ConvertListofStringsToUppercaseAndJoinThemWithComma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_Q.String.ConvertListofStringsToUppercaseAndJoinThemWithComma" />
+      <module name="DSA-Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream_Q.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountNumberOfWordsInAStringUsingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_Q.String.CountNumberOfWordsInAStringUsingStreams" />
+      <module name="DSA-Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream_Q.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDuplicateWordsInASentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_Q.String.FindDuplicateWordsInASentence" />
+      <module name="DSA-Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream_Q.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSecondMostRepeatedCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_Q.String.FindSecondMostRepeatedCharacter" />
+      <module name="DSA-Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream_Q.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupStringsByLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_Q.String.GroupStringsByLength" />
+      <module name="DSA-Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream_Q.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindSecondMostRepeatedCharacter" />
+        <item itemvalue="Application.FindDuplicateWordsInASentence" />
+        <item itemvalue="Application.GroupStringsByLength" />
+        <item itemvalue="Application.ConvertListofStringsToUppercaseAndJoinThemWithComma" />
+        <item itemvalue="Application.CountNumberOfWordsInAStringUsingStreams" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,5 +283,37 @@
       <updated>1765314135159</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Screenshot/twoSum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Screenshot/BestTimeToBuySellStock.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Screenshot/moveZero.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

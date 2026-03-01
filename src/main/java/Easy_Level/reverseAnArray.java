@@ -1,4 +1,4 @@
-package HotArrays;
+package Easy_Level;
 
 import java.util.Arrays;
 

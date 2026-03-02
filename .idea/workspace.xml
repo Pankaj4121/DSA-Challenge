@@ -5,73 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d65ca7-659b-47da-b330-b1643565dbac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/CheckIfTwoStringsAreAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/CheckPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/CountVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindDuplicateCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindFirstNonRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindFrequencyOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/FindSecondHighestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/LongestWordInASentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/MoveAllZeroesToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/ReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/RotateArrayByK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/FindTheDuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/GroupOfAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/LongestSubstringWithoutRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/MaxSubArraySumKadanesAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/ReverseWordsInaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Medium_Level/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/BestTimeToBuySellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/FindMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/MargedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/RotateArrayByK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/maximumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/moveZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/twoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/CheckIfAllElementsMatchAConditionAllMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/ConvertListToMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindAnyElementStartingWithPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindDuplicateElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindFirstRepeatedChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindFrquencyOfChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindFrquencyOfNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindLongestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindMinAndMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FindSecondHighestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/FlattenNestedListsUsingFlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/GroupElementsAndCountThem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/LimitTop3HighestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/MergedTwoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/PartitionEvenAndOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/SkipFirstNElementsAndCollectRemaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/SortAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/SortAMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Hot20/SumOfAllNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CapitalizeFirstLetterOfEachWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CheckIfTwoStringsAreAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/ConvertListofStringsToUppercaseAndJoinThemWithComma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CountFrequencyOfEachWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CountNumberOfWordsInAStringUsingStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/CountVowelsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/FindAllPalindromicWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/FindDuplicateWordsInASentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/FindLongestWordInASentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/FindSecondMostRepeatedCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/GroupStringsByLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/RemoveDuplicateCharactersFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/ReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/SortCharOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/String/SplitSentenceAndSortWordsAlphabetically.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/CountEmployeesInEachDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindTheAverageSalaryOfEachDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindTheHighestPaidEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindTheLowestPaidEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindTheSecondHighestPaidEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindheHighestPaidEmployeeInEachDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/GetOnlyEmployeeNamesFromTheList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/GroupEmployeesByDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/PartitionEmployeesBasedOnSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/SortEmployeesBySalary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HotArrays/CheckIfArrayIsSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/CheckIfArrayIsSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HotArrays/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HotArrays/findLargestnSmallestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/findLargestnSmallestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HotArrays/reverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Easy_Level/reverseAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +94,7 @@
     "Application.FindSecondHighestNumber.executor": "Run",
     "Application.FindSecondMostRepeatedCharacter.executor": "Run",
     "Application.FindTheDuplicateNumber.executor": "Run",
+    "Application.FindTheHighestPaidEmployee.executor": "Run",
     "Application.FlattenNestedListsUsingFlatMap.executor": "Run",
     "Application.FreqOfWord.executor": "Run",
     "Application.GroupElementsAndCountThem.executor": "Run",
@@ -197,22 +143,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindSecondMostRepeatedCharacter">
+  <component name="RunManager" selected="Application.FindTheHighestPaidEmployee">
     <configuration name="ConvertListofStringsToUppercaseAndJoinThemWithComma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stream_Q.String.ConvertListofStringsToUppercaseAndJoinThemWithComma" />
-      <module name="DSA-Challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stream_Q.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountNumberOfWordsInAStringUsingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream_Q.String.CountNumberOfWordsInAStringUsingStreams" />
       <module name="DSA-Challenge" />
       <extension name="coverage">
         <pattern>
@@ -250,6 +183,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindTheHighestPaidEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_Q.Object_Q.FindTheHighestPaidEmployee" />
+      <module name="DSA-Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream_Q.Object_Q.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GroupStringsByLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stream_Q.String.GroupStringsByLength" />
       <module name="DSA-Challenge" />
@@ -265,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindTheHighestPaidEmployee" />
         <item itemvalue="Application.FindSecondMostRepeatedCharacter" />
         <item itemvalue="Application.FindDuplicateWordsInASentence" />
         <item itemvalue="Application.GroupStringsByLength" />
         <item itemvalue="Application.ConvertListofStringsToUppercaseAndJoinThemWithComma" />
-        <item itemvalue="Application.CountNumberOfWordsInAStringUsingStreams" />
       </list>
     </recent_temporary>
   </component>

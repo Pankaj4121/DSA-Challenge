@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d65ca7-659b-47da-b330-b1643565dbac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/CountEmployeesInEachDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindTheAverageSalaryOfEachDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindTheHighestPaidEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindTheLowestPaidEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindTheSecondHighestPaidEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/FindheHighestPaidEmployeeInEachDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/GetOnlyEmployeeNamesFromTheList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/GroupEmployeesByDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/PartitionEmployeesBasedOnSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Q/Object_Q/SortEmployeesBySalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/FindTheFirstRepeatedCharacterInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Screenshot/GroupAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,9 +85,11 @@
     "Application.FindSecondHighestNumber.executor": "Run",
     "Application.FindSecondMostRepeatedCharacter.executor": "Run",
     "Application.FindTheDuplicateNumber.executor": "Run",
+    "Application.FindTheFirstRepeatedCharacterInAString.executor": "Run",
     "Application.FindTheHighestPaidEmployee.executor": "Run",
     "Application.FlattenNestedListsUsingFlatMap.executor": "Run",
     "Application.FreqOfWord.executor": "Run",
+    "Application.GroupAnagram.executor": "Run",
     "Application.GroupElementsAndCountThem.executor": "Run",
     "Application.GroupOfAnagram.executor": "Run",
     "Application.GroupStringsByLength.executor": "Run",
@@ -143,20 +136,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindTheHighestPaidEmployee">
-    <configuration name="ConvertListofStringsToUppercaseAndJoinThemWithComma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream_Q.String.ConvertListofStringsToUppercaseAndJoinThemWithComma" />
-      <module name="DSA-Challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stream_Q.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FindTheFirstRepeatedCharacterInAString">
     <configuration name="FindDuplicateWordsInASentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stream_Q.String.FindDuplicateWordsInASentence" />
       <module name="DSA-Challenge" />
@@ -183,6 +163,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindTheFirstRepeatedCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Screenshot.FindTheFirstRepeatedCharacterInAString" />
+      <module name="DSA-Challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Screenshot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindTheHighestPaidEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stream_Q.Object_Q.FindTheHighestPaidEmployee" />
       <module name="DSA-Challenge" />
@@ -196,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupStringsByLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream_Q.String.GroupStringsByLength" />
+    <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Screenshot.GroupAnagram" />
       <module name="DSA-Challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream_Q.String.*" />
+          <option name="PATTERN" value="Screenshot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindTheFirstRepeatedCharacterInAString" />
+        <item itemvalue="Application.GroupAnagram" />
         <item itemvalue="Application.FindTheHighestPaidEmployee" />
         <item itemvalue="Application.FindSecondMostRepeatedCharacter" />
         <item itemvalue="Application.FindDuplicateWordsInASentence" />
-        <item itemvalue="Application.GroupStringsByLength" />
-        <item itemvalue="Application.ConvertListofStringsToUppercaseAndJoinThemWithComma" />
       </list>
     </recent_temporary>
   </component>
